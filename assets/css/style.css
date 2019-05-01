@@ -303,3 +303,19 @@ img {
   left: 0;
   margin: 2em;
 }
+
+.text-html{
+  color: #000053;
+}
+
+.text-css{
+  color: #005303;
+}
+
+.text-js{
+  color: #afc728;
+}
+
+.text-adobe{
+  color: #530000;
+}
